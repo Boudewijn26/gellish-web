@@ -1,0 +1,1 @@
+web: gunicorn gellish.wsgi --log-file -
